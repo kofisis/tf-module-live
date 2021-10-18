@@ -1,2 +1,2 @@
-user = ["test-user"]
+user = "test-user"
 bucket-name = "testbucketap1-us"
